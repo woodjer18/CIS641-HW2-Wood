@@ -9,4 +9,4 @@
 * Provide personal training to customers on how to use their devices.
 ### Python Programming Language
 * Intermediate knowledge of Python Programming 
-![This is a GOT meme](https://www.boredpanda.com/funny-game-of-thrones-memes/)
+![This is a GOT meme](https://www.boredpanda.com/funny-game-of-thrones-memes/?media_id=301994)
