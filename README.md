@@ -7,5 +7,5 @@
 * Quickly able to assess customer technical issues and provide knowledge, support, and solutions for Apple products.
 * Troubleshoot Apple product issues from least invasive to most invasive measures in order to remedy customer complaints. 
 * Provide personal training to customers on how to use their devices.
-# Python Programming Language
+### Python Programming Language
 * Intermediate knowledge of Python Programming 
