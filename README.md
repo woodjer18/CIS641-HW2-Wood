@@ -9,7 +9,6 @@
 * Provide personal training to customers on how to use their devices.
 ### Python Programming Language
 * Intermediate knowledge of Python Programming 
-#### [Link to Personal Portfolio]()
 
 
 
