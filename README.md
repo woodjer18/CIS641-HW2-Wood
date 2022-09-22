@@ -10,7 +10,7 @@
 ### Python Programming Language
 * Intermediate knowledge of Python Programming 
 
-![Link to Portfolio](https://woodjer18.github.io/#)
+[Link to Portfolio](https://woodjer18.github.io/#)
 
 
 
